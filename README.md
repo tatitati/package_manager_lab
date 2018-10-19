@@ -3,11 +3,13 @@
 ```
 swift build
 ```
+This will fetch and compile swiftyJson and Alamofire (and http client). 
 
 ## Execute:
 ```
 swift run
 ```
+This will run main.swift
 
 Example output:
 
