@@ -9,7 +9,7 @@ This will fetch and compile swiftyJson and Alamofire (and http client).
 ```
 swift run
 ```
-This will run main.swift
+This will run main.swift. This app simply make a simple http query to https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
 
 
 ## Example output:
