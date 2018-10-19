@@ -1,10 +1,10 @@
-# Set up:
+## Set up:
 
 ```
 swift build
 ```
 
-Execute:
+## Execute:
 ```
 swift run
 ```
