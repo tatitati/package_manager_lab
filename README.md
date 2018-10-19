@@ -3,7 +3,7 @@
 ```
 swift build
 ```
-This will fetch and compile swiftyJson and Alamofire (and http client). 
+This will fetch and compile swiftyJson and Alamofire (and http client) third party dependencies, they are specified in Package.swift. 
 
 ## Execute:
 ```
