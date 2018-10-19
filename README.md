@@ -2,9 +2,12 @@
 
 ```
 swift build
-swift run
 ```
 
+Execute:
+```
+swift run
+```
 
 Example output:
 
